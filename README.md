@@ -1,5 +1,5 @@
 # qikexiu css样式框架
 
-[API index.html](https://github.com/unclemake/qikexiu/blob/master/index.html)  
+[API 根目录index.html](https://github.com/unclemake/qikexiu/blob/master/index.html)  
 
 
