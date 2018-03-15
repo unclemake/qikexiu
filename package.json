@@ -1,13 +1,13 @@
 {
   "name": "qikexiu",
-  "version": "1.0.0",
-  "description": "css 框架",
+  "version": "1.0.1",
+  "description": "css 基础框架",
   "main": "gulpfile.js",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-less": "^3.1.0"
+    "gulp-less": "^3.5.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "gulp"
   },
